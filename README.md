@@ -165,6 +165,17 @@ ArXiv: [https://arxiv.org/pdf/2609.10382]
 If you use ReinforcePhysics in your research, please cite:
 
 ```bibtex
+
+@article{Kumar:2026cdb,
+    author = "Kumar, Jacky",
+    title = "{A Reinforcement Learning Method to Navigate SMEFT Operator Space}",
+    eprint = "2611.21439",
+    archivePrefix = "arXiv",
+    primaryClass = "cs.LG",
+    month = "11",
+    year = "2026"
+}
+
 @article{Kumar:2026zpo,
     author = "Kumar, Jacky and Bouchard, Marianne and London, David",
     title = "{Searching for New Physics with Reinforcement Learning}",
